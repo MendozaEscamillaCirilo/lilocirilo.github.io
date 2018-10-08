@@ -4,10 +4,18 @@
    margin: 0%;
  }
  
+div{
+  text-align: center;
+}
+
 .boton_personalizado{
   text-decoration: black;
   color: aliceblue;
   padding: 20px;
+}
+.referencias{
+    text-decoration: black;
+    color: #1883ba;
 }
 
 .boton_personalizado:hover{
@@ -46,7 +54,16 @@ h1 {
 .imagenes{
   text-align: center;
 }
+.ref{
+  color: #eeeeee;
+}
 
 .f1,f2{
   width: 400px;
+  color: white;
+  width: 40px;
+}
+.imagen_pequenia{
+  width: 300px;
+  height: 300px;
 }
